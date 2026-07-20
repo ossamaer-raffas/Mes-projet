@@ -1,0 +1,11 @@
+id,produit,categorie,prix,quantite,date
+1,ORDINATEUR,Informatique,7000,2,2026-07-01
+2,SOURIS,Informatique,150,5,2026-07-02
+3,CLAVIER,Informatique,300,3,2026-07-03
+4,ECRAN,Informatique,2200,2,2026-07-04
+5,IMPRIMANTE,Informatique,1800,1,2026-07-05
+6,CASQUE,Accessoire,400,4,2026-07-06
+7,WEBCAM,Accessoire,600,2,2026-07-07
+8,DISQUE SSD,Stockage,950,3,2026-07-08
+9,CLÉ USB,Stockage,120,10,2026-07-09
+10,ROUTEUR,Réseau,850,2,2026-07-10
